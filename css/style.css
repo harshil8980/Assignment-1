@@ -1,0 +1,145 @@
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.img > img
+{
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+}
+section
+{
+    margin-top: 0px;
+}
+.contain
+{
+    display: flex;
+    justify-content: right;
+    margin-right: 260px;
+    
+}
+.contain > .firsttext
+{
+    margin-top: 180px;
+    font-family: 'Marvel', sans-serif;
+    font-size: 35px;
+    color: aliceblue;
+    margin-bottom: 0px;
+    font: bold;
+  
+}
+.contain > h3
+{
+    margin-top: 182px;
+    font-size: 35px;
+    color: aliceblue;
+    margin-bottom: 0px;
+    text-decoration-line: overline underline;
+    font-family: 'Marvel', sans-serif;
+}
+.firsttext > span
+{
+    background-color: red;
+    font: bold;
+}
+.contain1
+{
+
+    display: flex;
+    justify-content: right;
+    margin-right: 130px;
+    margin-bottom: 0px;
+}
+.f2
+{
+    margin-top: 0px;
+    font-family: 'AMCAP Eternal', sans-serif;
+                                                
+    font-size: 55px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+.inside
+{
+    margin-top: 10px;
+    font-family: 'AMCAP Eternal', sans-serif;
+                                                
+    font-size: 7px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+.f3
+{
+    margin-top: 0px;
+    font-family: 'AMCAP Eternal', sans-serif;
+                                                
+    font-size: 55px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+.contain3
+{
+    margin-top: 0px;
+    display: flex;
+    justify-content: right;
+    margin-right: 15px;
+    margin-bottom: 0px;
+}
+.contain3 > h2
+{
+    margin-top: 0px;
+    font-size: 100px;
+    color:rgba(174, 37, 37, 0.737);
+    margin-bottom: 0px;
+    font-family: 'AMCAP Eternal', sans-serif;
+    margin-bottom: 0px;
+}
+.contain4
+{
+    margin-top: 0px;
+    display: flex;
+    justify-content: right;
+    width: 40%;
+    margin-left: 850px;
+    margin-bottom: 0px;
+}
+.contain4 > p
+{
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: small;
+    margin-bottom: 0px;
+}
+.container5
+{
+    margin-top: 0px;
+    display: flex;
+    justify-content: right;
+    width: 40%;
+    margin-left: 650px;
+    margin-bottom: 0px;
+}
+.container5 > h2
+{
+    color: aliceblue;
+}
+.LINK
+{
+    margin-top: 0px;
+    display: flex;
+    justify-content: right;
+    width: 40%;
+    margin-left: 670px;
+    margin-bottom: 0px; 
+}
+.LINK > a
+{
+    text-decoration: none;
+    color: white;
+    text-decoration-line: underline;
+}
