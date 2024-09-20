@@ -4,6 +4,7 @@ body
     margin: 0px;
     padding: 0px;
 }
+/* styling of an image */
 .img > img
 {
     width: 100%;
@@ -11,10 +12,13 @@ body
     z-index: -1;
     position: absolute;
 }
+/* styling of the entire section starts */
 section
 {
     margin-top: 0px;
 }
+
+/* styling of first div class which contains texts */
 .contain
 {
     display: flex;
@@ -46,6 +50,8 @@ section
     background-color: red;
     font: bold;
 }
+
+/* styling of second div class */
 .contain1
 {
 
@@ -63,6 +69,8 @@ section
     color: aliceblue;
     margin-bottom: 0px;
 }
+
+/* styling of the text included inside the contain1 class */
 .inside
 {
     margin-top: 10px;
@@ -81,6 +89,7 @@ section
     color: aliceblue;
     margin-bottom: 0px;
 }
+/* styling of the third div class which contains main text in red color */
 .contain3
 {
     margin-top: 0px;
@@ -89,6 +98,8 @@ section
     margin-right: 15px;
     margin-bottom: 0px;
 }
+
+
 .contain3 > h2
 {
     margin-top: 0px;
@@ -98,6 +109,7 @@ section
     font-family: 'AMCAP Eternal', sans-serif;
     margin-bottom: 0px;
 }
+/* styling of the 4th div containing credits */
 .contain4
 {
     margin-top: 0px;
@@ -115,6 +127,7 @@ section
     font-size: small;
     margin-bottom: 0px;
 }
+/* styling of last div */
 .container5
 {
     margin-top: 0px;
@@ -128,6 +141,7 @@ section
 {
     color: aliceblue;
 }
+/* styling of link that is provided to watch trailer*/
 .LINK
 {
     margin-top: 0px;
